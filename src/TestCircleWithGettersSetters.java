@@ -21,10 +21,5 @@ public class TestCircleWithGettersSetters {
         System.out.println("Increasing the radius of Circle2 by 10% ");
         circle2.setRadius(circle2.getRadius() * 1.1);
         System.out.println("Circle2 radius has now become: " + circle2.getRadius());
-
-
-
-
-
     }
 }

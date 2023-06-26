@@ -37,5 +37,4 @@ public class Circle {
     public void setRadius(double newRadius) {
         radius = (newRadius >= 0) ? newRadius : 0;
     }
-
 }
